@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neilk17
+- 👋 Hi, I’m Neil
 - 📟 Reach out to me through [my website](https://neilkanakia.xyz)
 
 <!---
